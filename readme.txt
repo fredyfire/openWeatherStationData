@@ -1,0 +1,1 @@
+A very basic idea for an open meteodata archive and exchange format.
