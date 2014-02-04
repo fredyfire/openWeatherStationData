@@ -47,7 +47,6 @@
 					"description":"Temperature and Humidity Sensor",
 					"manufacturer":"TFA",
 					"productID":"30.3150"
-
 				}
 			]
 
@@ -65,7 +64,6 @@
 					"description":"Temperature and Humidity Sensor",
 					"manufacturer":"TFA",
 					"productID":"30.3150"
-
 				}
 			]
 		}
@@ -83,7 +81,6 @@
 					"description":"Temperature Wire Sensor",
 					"manufacturer":"TFA",
 					"productID":"TFA 30.3177"
-
 				}
 			]
 
