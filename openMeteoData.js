@@ -19,7 +19,7 @@
 		"countryCode":"CH",
 		"city":"Binningen (BL)",
 		"latitude": -14.8677,
-        "longitude": 58.6423,
+        	"longitude": 58.6423,
 		"altitude_m":350,
 		"operators":
 		[
