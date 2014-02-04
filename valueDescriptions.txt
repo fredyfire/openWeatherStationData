@@ -1,14 +1,14 @@
 ### DATE and TIME Values ###
 
-date_time					:	Date and Time in YYYY-MM-DD HH:MM:SS
-date						:	Date in YYYY-MM-DD
-time						:	Time HH:MM:SS
+date_time				  	  :	Date and Time in YYYY-MM-DD HH:MM:SS
+date						      :	Date in YYYY-MM-DD
+time					    	  :	Time HH:MM:SS
 
 
 ### Temperatures ###
 
-temp_air_2m_c				:	Temperature Air at 2m in C
-temp_air_2m_f				:	Temperature Air at 2m in F
+temp_air_2m_c				  :	Temperature Air at 2m in C
+temp_air_2m_f				  :	Temperature Air at 2m in F
 temp_air_5cm_c				:	Temperature Air at 5cm in C
 temp_air_5cm_f				:	Temperature Air at 5cm in F
 temp_ground_5cm_c			:	Temperature Ground at (-)5cm in C
@@ -27,20 +27,20 @@ temp_windchill_f			:	Windchill in F
 
 ### Air ###
 
-humity_rel					:	Humity Air at 2m in % (relative)
-pressure_rel				:	Pressure Air at Station altitude in hPa (relative)
-pressure_abs				:	Pressure Air at Station altitude in hPa (absolute)
+humity_rel					  :	Humity Air at 2m in % (relative)
+pressure_rel				  :	Pressure Air at Station altitude in hPa (relative)
+pressure_abs				  :	Pressure Air at Station altitude in hPa (absolute)
 
 
 ### Wind ###
 
-windspeed_kmh				:	Windspeed in km/h
-windspeed_mph				:	Windspeed in miles/h
-windspeed_ms				:	Windspeed in m/s
-windspeed_kn				:	Windspeed in knots
-windspeed_b					:	Windspeed in beaufort
-windspeed_gust_kmh			:	Gust Windspeed in km/h
-windspeed_gust_mph			:	Gust Windspeed in miles/h
+windspeed_kmh				  :	Windspeed in km/h
+windspeed_mph			  	:	Windspeed in miles/h
+windspeed_ms			  	:	Windspeed in m/s
+windspeed_kn			  	:	Windspeed in knots
+windspeed_b				  	:	Windspeed in beaufort
+windspeed_gust_kmh		:	Gust Windspeed in km/h
+windspeed_gust_mph		:	Gust Windspeed in miles/h
 windspeed_gust_ms			:	Gust Windspeed in m/s
 windspeed_gust_kn			:	Gust Windspeed in knots
 windspeed_gust_b			:	Gust Windspeed in beaufort
@@ -48,30 +48,30 @@ windspeed_gust_b			:	Gust Windspeed in beaufort
 
 ### Rain (precipitation) ###
 
-rain_interval				:	Rain (precipitation) sum for last data interval
-rain_1h						:	Rain (precipitation) sum for last hour
-rain_3h						:	Rain (precipitation) sum for last 3 hours
-rain_6h						:	Rain (precipitation) sum for last 6 hours
-rain_12h					:	Rain (precipitation) sum for last 12 hours
-rain_24h					:	Rain (precipitation) sum for last 24 hours
+rain_interval			  	:	Rain (precipitation) sum for last data interval
+rain_1h					    	:	Rain (precipitation) sum for last hour
+rain_3h					    	:	Rain (precipitation) sum for last 3 hours
+rain_6h					    	:	Rain (precipitation) sum for last 6 hours
+rain_12h				    	:	Rain (precipitation) sum for last 12 hours
+rain_24h			    		:	Rain (precipitation) sum for last 24 hours
 
 
 ### Lightnings ###
 
-lightnings_interval			:	Lightnings sum for last data interval
-lightnings_1h				:	Lightnings (precipitation) sum for last hour
-lightnings_3h				:	Lightnings (precipitation) sum for last 3 hours
-lightnings_6h				:	Lightnings (precipitation) sum for last 6 hours
+lightnings_interval		:	Lightnings sum for last data interval
+lightnings_1h			  	:	Lightnings (precipitation) sum for last hour
+lightnings_3h			  	:	Lightnings (precipitation) sum for last 3 hours
+lightnings_6h			  	:	Lightnings (precipitation) sum for last 6 hours
 lightnings_12h				:	Lightnings (precipitation) sum for last 12 hours
 lightnings_24h				:	Lightnings (precipitation) sum for last 24 hours
 
 
 ### Radiations ###
 
-Radiation?					:	?
+Radiation?				  	:	?
 
 
 ### Custom ###
 
-temp_custom_001-999			:	Custom temperature 001-999
-hum_custom_001-999			:	Custom temperature 001-999		
+temp_custom_001-999		:	Custom temperature 001-999
+hum_custom_001-999		:	Custom temperature 001-999		
