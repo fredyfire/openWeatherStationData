@@ -44,7 +44,7 @@
 			[
 				{
 					"id":"temp_hum_01",
-					"description":"Temperature and Humidity Sensor",
+					"description":"Temperature and Humity Sensor",
 					"manufacturer":"TFA",
 					"productID":"30.3150"
 				}
@@ -61,7 +61,7 @@
 			[
 				{
 					"id":"temp_hum_02",
-					"description":"Temperature and Humidity Sensor",
+					"description":"Temperature and Humity Sensor",
 					"manufacturer":"TFA",
 					"productID":"30.3150"
 				}
@@ -95,7 +95,7 @@
 			[
 				{
 					"id":"temp_hum_01",
-					"description":"Temperature and Humidity Sensor",
+					"description":"Temperature and Humity Sensor",
 					"manufacturer":"TFA",
 					"productID":"TFA 30.3150"
 				}
