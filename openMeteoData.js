@@ -11,10 +11,10 @@
 	"stationDescription":
 	{
 		"id":"CH-BLB0001",
-		"name":"Wetterstation Binningen West (CH)",
-		"description":"Wetterstation Binningen West (CH)",
-		"url":"http://wetterbinningen.ch",
-		"email":"info@wetterbinningen.ch",
+		"name":"Wetterstation B West (CH)",
+		"description":"Wetterstation B West (CH)",
+		"url":"http://stationwebsite.com",
+		"email":"station@email.com",
 		"country":"Switzerland",
 		"countryCode":"CH",
 		"city":"Binningen (BL)",
