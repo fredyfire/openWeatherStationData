@@ -4,7 +4,7 @@
 		"type":"openMeteoData (v. 0.1.1)",
 		"licence":"openMeteoData (v. 0.1.1)",
 		"buildDate":"2014-02-01 00:00:01",
-		"generator":"openMeteoData Builder (v .0.1.1)"
+		"generator":"openMeteoData Converter (v .0.1.1)"
 	},
 
 	
