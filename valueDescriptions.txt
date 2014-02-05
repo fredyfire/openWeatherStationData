@@ -11,10 +11,14 @@ temp_air_2m_c				:	Temperature Air at 2m in C
 temp_air_2m_f				:	Temperature Air at 2m in F
 temp_air_5cm_c				:	Temperature Air at 5cm in C
 temp_air_5cm_f				:	Temperature Air at 5cm in F
-temp_ground_5cm_c			:	Temperature Ground at (-)5cm in C
-temp_ground_5cm_f			:	Temperature Ground at (-)5cm in F
-temp_ground_1m_c			:	Temperature Ground at (-)1m in C
-temp_ground_1m_f			:	Temperature Ground at (-)1m in F
+
+temp_soil_5cm_c				:	Temperature Soil at (-)5cm in C
+temp_soil_5cm_f				:	Temperature Soil at (-)5cm in F
+temp_soil_1m_c				:	Temperature Soil at (-)1m in C
+temp_soil_1m_f				:	Temperature Soil at (-)1m in F
+
+temp_soil_4i_c				:	Temperature Soil at (-)4 inch in C
+temp_soil_4i_f				:	Temperature Soil at (-)4 inch in F
 
 
 ### Temperatures calculated###
@@ -45,6 +49,8 @@ windspeed_gust_ms			:	Gust Windspeed in m/s
 windspeed_gust_kn			:	Gust Windspeed in knots
 windspeed_gust_b			:	Gust Windspeed in beaufort
 
+winddir_degree				:	Winddirection in degrees 0-359 or 1-360 ?
+winddir_string				:	Winddirection in string (NNE)
 
 ### Precipitation (Rain&snow)###
 
