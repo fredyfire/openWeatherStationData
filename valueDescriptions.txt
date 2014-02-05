@@ -62,7 +62,7 @@ rain_12h					:	Rain (precipitation) sum for last 12 hours
 rain_24h					:	Rain (precipitation) sum for last 24 hours
 
 raining_now	?				:	true of false ?
-rain_type	?				:	rain, snow ...?
+precipitation_type	?		:	rain, snow ...?
 snow_height ?				:   snow height agl ?
 
 leaf_wetness				:	true false ?
