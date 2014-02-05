@@ -73,11 +73,11 @@ soil_moisture ?				:	in cbar ?
 ### Lightnings ###
 
 lightnings_interval			:	Lightnings sum for last data interval
-lightnings_1h				:	Lightnings (precipitation) sum for last hour
-lightnings_3h				:	Lightnings (precipitation) sum for last 3 hours
-lightnings_6h				:	Lightnings (precipitation) sum for last 6 hours
-lightnings_12h				:	Lightnings (precipitation) sum for last 12 hours
-lightnings_24h				:	Lightnings (precipitation) sum for last 24 hours
+lightnings_1h				:	Lightnings sum for last hour
+lightnings_3h				:	Lightnings sum for last 3 hours
+lightnings_6h				:	Lightnings sum for last 6 hours
+lightnings_12h				:	Lightnings sum for last 12 hours
+lightnings_24h				:	Lightnings sum for last 24 hours
 
 
 ### Radiations ###
